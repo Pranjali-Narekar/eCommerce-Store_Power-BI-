@@ -23,6 +23,10 @@ The main goal of this project is to:
 ---
 
 ## 📊 Dashboard Features
+## 📸 Dashboard Preview
+
+![eCommerce Store Dashboard](images/dashboard.png)
+
 
 ### 1️⃣ Sales & Orders Analysis
 
