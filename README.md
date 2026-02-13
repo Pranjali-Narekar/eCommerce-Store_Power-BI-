@@ -22,12 +22,10 @@ The main goal of this project is to:
 
 ---
 
+## 📊 Dashboard View
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/d87ba82f-77d6-40ae-9035-bcb152795bcc" />
+
 ## 📊 Dashboard Features
-## 📸 Dashboard Preview
-
-![eCommerce Store Dashboard](images/dashboard.png)
-
-
 ### 1️⃣ Sales & Orders Analysis
 
 * Monthly revenue trend
